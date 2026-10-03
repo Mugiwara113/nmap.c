@@ -1,0 +1,5 @@
+*.o
+/nmap_c
+/port_parser_test
+.idea/
+.DS_Store
